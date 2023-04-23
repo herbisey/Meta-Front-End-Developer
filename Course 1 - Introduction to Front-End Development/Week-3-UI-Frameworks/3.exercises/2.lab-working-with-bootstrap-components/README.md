@@ -28,7 +28,7 @@ __Step 5:__ Add the message Our restaurant will be closed on New Year's Day, ins
             <h1>Our Menu</h1>
         </div>
         <div class="alert alert-info" role="alert">
-            Our resturaunt will be closed on New Year's Day
+            Our restaurant will be closed on New Year's Day
         </div>
     </div>
 </div>
@@ -78,6 +78,6 @@ __Step 18:__ Save the file.
 - There are plenty of examples in the Bootstrap documentation.
 - Review the lessons _Using Bootstrap Styles_ and _Bootstrap Components_.
 
-## Final Result
+## Final Result!!!
 
 <img src="./result.png" width=500>
